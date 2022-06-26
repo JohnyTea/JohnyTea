@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LukaszCydejko, I am young programmer from Poland.
+- 👀 I’m interested in backed development, creating and playing games!
+- 🌱 I’m currently learning how to create mobile games on android using unity and I am increasing skills in creating webAplications and code practices in general
+- 💞️ I’m looking to collaborate on any webApplication, preferable as backend developer in C#. I also know JS, TS, Dojo 1 framework and Java.
+- 📫 Just email me: luk.cydejko@gmail.com
